@@ -1,4 +1,4 @@
-<img src="https://i.namu.wiki/i/Y-1FjT2lozgkcZgy5Npr9OKEtnDu720Ta--VISEzdqQ8okMpXNgcfTDMBY4_XB2czACadfrsW9tfngPciDE4IyPqROa-cjbZuzNUIuNyBfOE3v9kBiEAQ1hrhUZQ-Z2B4Nk8daF0tJBNR4BmlZL7lQ.webp" width="100%" height="100%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
+<img src="https://i.namu.wiki/i/Y-1FjT2lozgkcZgy5Npr9OKEtnDu720Ta--VISEzdqQ8okMpXNgcfTDMBY4_XB2czACadfrsW9tfngPciDE4IyPqROa-cjbZuzNUIuNyBfOE3v9kBiEAQ1hrhUZQ-Z2B4Nk8daF0tJBNR4BmlZL7lQ.webp" width="70%" height="70%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
 # Wassup AI 서비스 기획자 3기 하으뜸   
 ###
 ### 📚 My Github Status 📚
