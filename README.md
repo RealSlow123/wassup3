@@ -17,7 +17,7 @@
 
 ####   
 
-### 🌹 Studying Planning Skill🌹
+### 🌹 Studying Skills🌹
 
 ![alt text](https://img.shields.io/badge/SOM_SAM_TAM-blue) ![alt text](https://img.shields.io/badge/Chasm_Marketing-violet) ![alt text](https://img.shields.io/badge/Good_UI-Greean) ![alt text](https://img.shields.io/badge/Job_To_Be_Done-yellow) ![alt text](https://img.shields.io/badge/Fyl_Wheel-red) ![alt text](https://img.shields.io/badge/Etc,,.-gray) 
 
